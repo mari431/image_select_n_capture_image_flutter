@@ -2,7 +2,7 @@
 
 image selection and capture image using flutter framework and get package.
 
-## Output
+## Output video
 
 
 
